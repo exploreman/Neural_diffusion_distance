@@ -1,9 +1,11 @@
 # Neural_diffusion_distance
 This is an implementation for training neural diffusion distance
 Please refer to 
+
 Jian Sun, Zongben Xu. Neural diffusion distance for image segmentation, NeurIPS 2019.
 
-Please download
+1. Please download the following files
+
 (1) Initial model
 InitModel.zip
 https://drive.google.com/open?id=1DxqSBAoPylQ23bINWmXfSPezbeSGd5PL
@@ -21,3 +23,5 @@ Dataset.zip
 https://drive.google.com/open?id=1bUwYb-RAnF1YTi1Bnmw2La2BujQLVFlE
 
 Copy the 'Dataset' folder to the same directory of 'DiffusionMap', i.e., making sure that 'Dataset' and 'DiffusionMap' are in the same directory. 
+
+2. 
