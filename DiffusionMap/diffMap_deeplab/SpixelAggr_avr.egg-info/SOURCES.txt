@@ -1,0 +1,7 @@
+SpixelAggr_avr_cuda.cpp
+SpixelAggr_avr_cuda_ker.cu
+setup.py
+SpixelAggr_avr.egg-info/PKG-INFO
+SpixelAggr_avr.egg-info/SOURCES.txt
+SpixelAggr_avr.egg-info/dependency_links.txt
+SpixelAggr_avr.egg-info/top_level.txt

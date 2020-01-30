@@ -1,0 +1,1 @@
+SpixelAggr_avr_cuda
