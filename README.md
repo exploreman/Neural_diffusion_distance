@@ -7,20 +7,20 @@ Please refer to
 ----
 Please download the following files.
 
-(1) Initial model
-InitModel.zip
+(1) Initial model: InitModel.zip
+
 https://drive.google.com/open?id=1DxqSBAoPylQ23bINWmXfSPezbeSGd5PL
 
 Copy the 'InitModel' folder into the folder of 'DiffusionMap'
 
-(2) Trained neural diffusion distance network
-snapshots_diffMap_grid.zip
+(2) Trained neural diffusion distance network: snapshots_diffMap_grid.zip
+
 https://drive.google.com/open?id=1tvvgTl4t6DkHrf2whK12ewo7ATbKWMxi
 
 Copy the 'snapshots_diffMap_grid' folder into the folder of 'DiffusionMap'
 
-(3) BSD500 training dataset
-Dataset.zip
+(3) BSD500 training dataset: Dataset.zip
+
 https://drive.google.com/open?id=1bUwYb-RAnF1YTi1Bnmw2La2BujQLVFlE
 
 Copy the 'Dataset' folder to the same directory of 'DiffusionMap', i.e., making sure that 'Dataset' and 'DiffusionMap' are in the same directory. 
