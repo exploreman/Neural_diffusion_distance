@@ -1,8 +1,7 @@
 # Neural_diffusion_distance
 This is an implementation for training neural diffusion distance
 Please refer to 
-
-Jian Sun, Zongben Xu. Neural diffusion distance for image segmentation, NeurIPS 2019.
+     Jian Sun, Zongben Xu. Neural diffusion distance for image segmentation, NeurIPS 2019.
 
 1. Please download the following files
 
