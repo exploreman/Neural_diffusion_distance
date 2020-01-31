@@ -26,4 +26,4 @@ https://drive.google.com/open?id=1bUwYb-RAnF1YTi1Bnmw2La2BujQLVFlE
 Copy the 'Dataset' folder to the same directory of 'DiffusionMap', i.e., making sure that 'Dataset' and 'DiffusionMap' are in the same directory. 
 
 ----
-Please follow "README.txt" in folder to "DiffusionMap" for training neural diffusion network.
+Please follow "README.txt" in folder of "DiffusionMap" for training neural diffusion network.
