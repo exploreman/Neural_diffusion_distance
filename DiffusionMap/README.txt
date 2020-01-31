@@ -14,6 +14,6 @@ This is the demo code to train spec-diff-net to learn diffusion distance on imag
 To train from scratch, please change the settings of path to your own case in the functions of 'train_diffusionMap_grid_BSD_kerkmeans.py' and 'train_diffusionMap_grid_BSD_kerkmeans_full.py'.
 For example, in train_diffusionMap_grid_BSD_kerkmeans.py
 (1) please modify RESTORE_FROM = './initModel/MS_DeepLab_resnet_pretrained_COCO_init.pth'
-(2) please modify Line 315 in main from 'if 0' to if '1' to load the initial model
+(2) please modify Line 315 in main from 'if 0' to 'if 1' to load the initial model
 
 In 'eval_diffusionMap_grid_kerkmeans.py', please change FOLDER_PSEUDO_Label to your favorite path.
